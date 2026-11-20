@@ -1,0 +1,20 @@
+WEBKORE — APRESENTAÇÃO DE TCC
+
+1. Abra APRESENTAR.cmd.
+2. Acesse http://127.0.0.1:4174 no Chrome ou Edge.
+3. Use o botão superior de tela cheia.
+
+ENTER na abertura: pular a introdução e manter a composição final.
+SPACE / seta direita / botão inferior: revelar a próxima etapa e depois avançar.
+Seta esquerda: voltar pelas etapas.
+E: reiniciar demonstração do slide. R: reiniciar tudo e zerar relógio.
+HOME / END: abertura e conclusão.
+N: notas nesta janela. Botão Notas: controle em janela separada.
+Menu: acesso direto aos dez capítulos, preservando as etapas visitadas.
+
+Para dois monitores: mova o controle para a tela do apresentador e mantenha a janela principal no projetor. Use o mesmo navegador e a mesma porta nas duas janelas. Se o popup for bloqueado, utilize N.
+
+Funciona sem internet e sem o backend do WebKore. Capturas e dados demonstrativos são locais. IA e funcionamento offline do produto são possibilidades futuras.
+Node.js 22.12+ é necessário para o servidor local.
+Se alterar o código, execute npm run build antes de apresentar.
+Feche o terminal ou use Ctrl+C para encerrar o servidor.
